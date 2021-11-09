@@ -2,3 +2,6 @@ This is
 a  file 
 with text 
 in it
+I 
+add
+info
